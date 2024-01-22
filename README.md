@@ -10,7 +10,7 @@ Sou um FullStack Developer :computer:
 
 Dê uma olhada no meu GitHub, onde você encontrará projetos desenvolvidos com atenção especial à responsividade, utilizando medidas em rem para garantir uma experiência inclusiva em todos os dispositivos. Explore o código, contribua e compartilhe suas ideias! 📱💻✨
 
-👉 [Confira meu GitHub aqui!](link para o seu perfil do GitHub)
+👉 [Confira meu GitHub aqui!](https://github.com/bruna15limaa)
 
 Vamos construir juntos uma web mais acessível e responsiva! 🚀 #GitHub #ResponsividadeWeb #OpenSource #DesenvolvimentoFrontend
 
