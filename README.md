@@ -20,8 +20,8 @@ Vamos construir juntos uma web mais acessível e responsiva! 🚀 #GitHub #Respo
 
 
 
- <br/> Buscando evoluir com projetos em Front-end usando React
- <br/> Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> Buscando evoluir com projetos em Front-end 
+ <br/> 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, musicas, arte, UX design e seriados no Netflix
  <br/> Entre em contato comigo: 
  
