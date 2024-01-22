@@ -117,6 +117,10 @@ main h1 {
     overflow: hidden;
 }
 
+.item img:hover {
+    filter: hue-rotate(7deg) contrast(101%) saturate(200%);
+}
+
 .details {
     padding: 2.2rem;
 }
